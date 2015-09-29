@@ -4,7 +4,7 @@
 #
 Name     : rubygem-github_api
 Version  : 0.12.3
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/github_api-0.12.3.gem
 Source0  : https://rubygems.org/downloads/github_api-0.12.3.gem
 Summary  : No detailed summary available
